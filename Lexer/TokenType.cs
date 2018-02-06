@@ -33,10 +33,10 @@
         RightParentheses,
 
         [Token("{")]
-        LeftBrace,
+        LeftCurlyBrace,
 
         [Token("}")]
-        RightBrace,
+        RightCurlyBrace,
 
         [Token("FUNCTION")]
         Function,
